@@ -1,0 +1,30 @@
+Aby rozpocząć grę naciśnij przycisk ROZPOCZNIJ GRĘ.
+
+Gracze muszą wpisać kod wyświetlony na ekranie na urządzeniu mobilnym, aby dołączyć do gry.
+Po zatwierdzeniu wyboru ich nick zostanie wyświetlony na ekranie.
+
+Gdy wszyscy uczestnicy dołączą do gry, naciśnij ZATWIERDŹ, aby rozpocząć grę.
+Wpisz hasło, które ma być odgadywane (będzie utajnione, więc nie trzeba freezować ekranu) i  zatwierdź.
+Utworzy się pole z literami oraz pokaże się pole szubienicy (to znaczy, że wszystko działa).
+Naciśnij ZBIERAJ LITERY, do momentu naciśnięcia ZATRZYMAJ LITERY gracze mają czas, aby wpisać literę lub hasło.
+Poczekaj jeszcze chwilę (opóźnienia internetu) zanim naciśniesz AKTUALIZUJ WYNIKI.
+Hasła są sprawdzane przed literami (jeśli hasło zostanie odgadnięte osoby podające litery nie otrzymują punktów)!
+Jeżeli ktoś odgadł hasło, uzupełnia się ono na ekranie.
+
+Jeśli ktoś był w stanie odgadnąć hasło i je wytłumaczyć wciśnij przyciśnij jego nick w tabeli wyników,
+a 100 punktów zostanie automatycznie dodane do jego wyniku (opcja nieobowiązkowa).
+
+Przyznawanie punktów:
+Osoba, która jako pierwsza zgadnie poprawną literę otrzymuje +10 punktów i zostaje one odsłonięta.
+Wszystkie osoby, które wprowadziły błędne litery, zanim została podana litera właściwa otrzymują -5 punktów.
+Osoby, które przysłały odpowiedzi później niż pierwsza poprawna litera nie są sprawdzane.
+Pierwsza błędna litera jest uwzględniana w szubienicy.
+Jeżeli pierwsza podana litera była prawidłowa, szubienica nie zostaje rozszerzona.
+Wszystkie osoby, które później podały literę nie otrzymują żadnych punktów.
+
+Podsumowanie:
+Poprawna litera   +10
+Błędna litera     -5
+Prawidłowe hasło  +100
+Błędne hasło      -20
+Wyjaśnienie       +100
